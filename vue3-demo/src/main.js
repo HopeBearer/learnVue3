@@ -1,4 +1,3 @@
-import './assets/main.css'
 
 // Vue2 new Vue() 创建了一个应用实例 => createApp()
 // createRouter() createStore() 
